@@ -1,2 +1,6 @@
 Archivo de prueba
 Nueva línea
+Tercera línea
+Cuarta línea
+Quinta línea
+Sexta línea
